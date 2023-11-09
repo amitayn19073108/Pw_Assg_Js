@@ -1,0 +1,9 @@
+
+Question 1: Explain what JavaScript is and its role in web development?
+ans:-JavaScript was created in 1995 by Brendan Eich, a programmer at Netscape Communications Corporation. Itwas originally called Mocha, then changed to LiveScript. JavaScript is a popular programming language that is widely used to build web applications. It is a client-sidescripting language, which means that it is run by your web browser rather than on a server. This makes it agood choice for building web applications that need to be fast and responsive, as the code is run locally on theuser's device rather than having to be sent back and forth between a server and a client. JavaScript is alsoused to build mobile apps, create interactive documents, and build server-side applications with the help of runtime environments such as Node.js.
+** js-role in webdevlopment
+JavaScript is like the secret sauce of web development! It's a dynamic programming language that adds interactivity and enhances the user experience on websites. While HTML and CSS handle the structure and styling of a webpage, JavaScript takes care of the behavior. It allows you to create things like interactive forms, dynamic content updates, and even cool animations without having to reload the entire page.
+
+JavaScript is often used alongside HTML and CSS to create modern, responsive, and user-friendly websites. It's supported by all major browsers, making it a versatile tool for web developers. Whether you're validating form inputs, fetching data from a server, or creating complex web applications, JavaScript is the go-to language for making the web come alive!
+it also help creating intraticve mobile app,game devlopment
+
