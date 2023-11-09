@@ -1,0 +1,51 @@
+Differentiate between unary, binary, and ternary operators in JavaScript. Give examples of each.?
+ans:-In JavaScript, operators are used to perform various operations on values, variables, and expressions. Operators can be categorized into unary, binary, and ternary operators based on the number of operands they work with:
+
+1. Unary Operators:
+   - Unary operators operate on a single operand (a single value or variable).
+   - They are often used to perform operations like negation, increment, decrement, type conversion, and more.
+   - Some common unary operators in JavaScript include:
+     - `+` (Unary plus): Converts its operand into a number.
+     - `-` (Unary minus): Negates its operand or converts it into a negative number.
+     - `!` (Logical NOT): Inverts the Boolean value of its operand.
+     - `typeof`: Returns a string indicating the data type of its operand.
+   
+   Example:
+
+   let x = 5;
+   let y = -x;
+   let isTrue = true;
+   let isFalse = !isTrue;
+   let typeOfX = typeof x;
+
+
+2. Binary Operators:
+   - Binary operators work with two operands.
+   - They are used for arithmetic operations, comparisons, logical operations, and more.
+   - Common binary operators include addition, subtraction, multiplication, division, equality comparisons, assignment, and logical operators.
+
+   Example:
+
+   let a = 10;
+   let b = 5;
+   let sum = a + b;      // Addition
+   let difference = a - b; // Subtraction
+   let product = a * b;  // Multiplication
+   let quotient = a / b; // Division
+   let isEqual = a === b; // Equality comparison
+   
+
+3. Ternary Operator (Conditional Operator):
+   - The ternary operator is a unique operator in JavaScript that takes three operands.
+   - It is used to create conditional expressions that evaluate to one of two values based on a condition.
+   - The syntax of the ternary operator is: `condition ? expressionIfTrue : expressionIfFalse`
+
+   Example:
+ 
+   let age = 18;
+   let canVote = age >= 18 ? 'Yes' : 'No';
+   
+
+  In the above example, if the `age` is greater than or equal to 18, the `canVote` variable will be assigned the string 'Yes,' otherwise, it will be assigned 'No.'
+
+These are the basic categories of operators in JavaScript. Understanding and using these operators effectively is crucial when working with JavaScript to perform various operations on data and make decisions in your code.
